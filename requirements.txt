@@ -1,0 +1,5 @@
+streamlit
+azure-core
+azure-identity
+azure-ai-projects
+openai
